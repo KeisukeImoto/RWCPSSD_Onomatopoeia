@@ -1,0 +1,15 @@
+﻿0115,0115_73,r i: N,4
+0115,0115_74,r i i i i i N,2
+0115,0115_75,b i r i: i i N,4
+0148,0148_115,j i r i r i r i r i r i q,4
+0148,0148_116,t i r i r i r i r i r i q,4
+0148,0148_117,t u r u r u r u r u r u q,3
+0253,0253_166,r i r i r i N,4
+0253,0253_167,p i r i p i r i p i r i,4
+0253,0253_168,p i r o r o r o r o,2
+0659,0659_166,ch i r i r i r i r i,4
+0659,0659_167,p i r i r i r i r i,2
+0659,0659_168,ch a r a r a r a r a,2
+0703,0703_130,t i r i r i,4
+0703,0703_131,ch i r i r i,4
+0703,0703_132,p i r u r u,3

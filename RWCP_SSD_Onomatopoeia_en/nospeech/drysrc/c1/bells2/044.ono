@@ -1,0 +1,18 @@
+﻿0157,0157_7,r i: N,4
+0157,0157_8,sh a: N,4
+0157,0157_9,ch a r i: N,5
+0340,0340_22,p i r i r i r i: N,4
+0340,0340_23,ch a r i r i r i: N,3
+0340,0340_24,p i: i i i: N,3
+0454,0454_7,j a r i r i r i N,4
+0454,0454_8,ch i r i r i N,4
+0454,0454_9,sh a r i r i N,3
+0484,0484_28,ch i r i r i r i,2
+0484,0484_29,sh a r i r i r i,2
+0484,0484_30,sh a r a r a N,2
+0541,0541_7,r i r i r i r i: N,5
+0541,0541_8,r u r i r i r u r i N,3
+0541,0541_9,r i r i r i r i:,4
+0798,0798_16,ch i r i r i r i r i r i:,4
+0798,0798_17,j i r i r i r i r i r i:,3
+0798,0798_18,p i r i r i r i r i r i,2
