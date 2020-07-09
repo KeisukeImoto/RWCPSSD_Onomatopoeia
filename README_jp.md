@@ -67,20 +67,20 @@
 
 オノマトペの識別IDはオノマトペごとに付与された固有のIDです．
 
-#### ====使い方====
+## 使い方
 このデータセットは以下の場合に限り使用可能です．
 - アカデミック機関での研究
 - 非商用目的の研究（営利団体での研究も含む）
 - 個人での利用（ブログなどを含む）
 
-営利目的の利用を希望される場合，keisuke.imoto@ieee.org までご連絡ください．このデータセットの再配布は認められていませんが，ウェブページやブログなどでデータセットの一部を公開することは可能です．また，論文やブログポスト等の成果を公開する際には，下記論文を引用してください．  
+営利目的の利用を希望される場合，keisuke.imoto@ieee.org までご連絡ください．また，論文やブログポスト等の成果を公開する際には，下記論文を引用してください．  
 
 Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi and Yoichi Yamashita,   
 "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis,"  
 arXiv preprint, XXXX.XXXXX, 2020
 
 
-#### ====作成者====
+## 作成者
 岡本 悠希（立命館大学）  
 井本 桂右（同志社大学）  
 高道 慎之介（東京大学）  
@@ -91,12 +91,12 @@ arXiv preprint, XXXX.XXXXX, 2020
 井本 桂右 (keisuke.imoto@ieee.org)，岡本 悠希（yuki.11.research@gmail.com）が主な責任者です．
 
 
-#### ====商用利用====
+## 商用利用
 我々は，皆様の商用利用を歓迎します．下記メールアドレスにご連絡ください．  
 井本 桂右：keisuke.imoto@ieee.org
 
 
-#### ====参考文献====
+## 参考文献
 [1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo,   
 	“Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition,”      
 	Proc. LanguageResources and Evaluation Conference (LREC), pp. 965–968,2000.  
