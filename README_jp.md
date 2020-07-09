@@ -73,7 +73,11 @@
 - 非商用目的の研究（営利団体での研究も含む）
 - 個人での利用（ブログなどを含む）
 
-営利目的の利用を希望される場合，keisuke.imoto@ieee.org までご連絡ください．このデータセットの再配布は認められていませんが，ウェブページやブログなどでデータセットの一部を公開することは可能です．また，論文やブログポスト等の成果を公開する際には，このデータセットの引用をお願いします．
+営利目的の利用を希望される場合，keisuke.imoto@ieee.org までご連絡ください．このデータセットの再配布は認められていませんが，ウェブページやブログなどでデータセットの一部を公開することは可能です．また，論文やブログポスト等の成果を公開する際には，下記論文を引用してください．  
+
+Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi and Yoichi Yamashita,   
+"RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis,"  
+arXiv preprint, XXXX.XXXXX, 2020
 
 
 #### ====作成者====
@@ -84,13 +88,7 @@
 福森 隆寛（立命館大学）  
 山下 洋一（立命館大学）  
 
-井本 桂右 (keisuke.imoto@ieee.org)が主な責任者です．
-
-
-#### ====引用====
-Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi and Yoichi Yamashita,   
-"RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis,"  
-arXiv preprint, XXXX.XXXXX, 2020
+井本 桂右 (keisuke.imoto@ieee.org)，岡本 悠希（yuki.11.research@gmail.com）が主な責任者です．
 
 
 #### ====商用利用====
