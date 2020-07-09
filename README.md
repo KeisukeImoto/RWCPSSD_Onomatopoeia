@@ -1,2 +1,2 @@
-# RWCPSSD_onomatopoeia
+# RWCPSSD_Onomatopoeia
 RWCP-SSD-Onomatopoeia
