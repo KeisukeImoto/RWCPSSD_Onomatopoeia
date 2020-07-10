@@ -1,6 +1,9 @@
 # RWCP-SSD-Onomatopoeia
-RWCP-SSD-Onomatopoeia is a dataset hogehoge
 
+RWCP-SSD-Onomatopoeia is the onomatopoeic word dataset including 155,568 onomatopoeic words for 105 kinds of environmental sounds (e.g., shaver sound, whistle sound) included in RWCP-SSD (Real World Computing Partnership-Sound Scene Database) [1].
+The RWCP-SSD-Onomatopoeia also contains self-reported confidence scores and others-reported acceptance scores to the onomatopoeic word, which can be used to evaluate the appropriateness of onomatopoeic words.
+This dataset is designed and collected for researches on environmental sound synthesis using onomatopoetic words and environmental sound conversion into onomatopoeic words.
+For more information, refer to the paper [2].
 
 
 ## Contents
