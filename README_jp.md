@@ -100,6 +100,6 @@ Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi, Takahiro F
 
 
 ## 参考文献
-[1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. Language Resources and Evaluation Conference (LREC), pp. 965–968,2000.
+[1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. Language Resources and Evaluation Conference (LREC), pp. 965–968,2000.  
 [2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," arXiv preprint, arXiv:2007.04719, 2020.  
 [3] "Speech Segmentation Toolkit using Julius," https://github.com/julius-speech/segmentation-kit.
