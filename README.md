@@ -4,6 +4,8 @@ RWCP-SSD-Onomatopoeia is the onomatopoeic word dataset including 155,568 onomato
 The RWCP-SSD-Onomatopoeia also contains self-reported confidence scores and others-reported acceptance scores to the onomatopoeic word, which can be used to evaluate the appropriateness of onomatopoeic words.
 This dataset is designed and collected for researches on environmental sound synthesis using onomatopoetic words and environmental sound conversion into onomatopoeic words.
 For more information, refer to the paper [2].
+If you use the RWCP-SSD-Onomatopoeia, please cite the paper [2]:  
+```[2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," arXiv preprint, arXiv:2007.04719, 2020```
 
 
 ## Contents
