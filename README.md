@@ -11,10 +11,10 @@ RWCP-SSD-Onomatopoeia is a dataset hogehoge
 The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 
 - XXX.ono (csv format file)  
-[Worker ID who gaves onomatopoeic words, ID for onomatopoeic word, Onomatopoeia, self-reported confidence score]  
+	``[Worker ID who gaves onomatopoeic words, ID for onomatopoeic word, Onomatopoeia, self-reported confidence score]``
 
 - XXX.acc (csv format file)  
-[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]
+	``[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]``
 
 
 ## Directory structure
