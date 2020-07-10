@@ -18,7 +18,8 @@ The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 
 
 ## Directory structure
-
+The RWCP-SSD-Onomatopoeia and RWCP-SSD have the same directory structure, and we can easily merge these resources.
+The directory structure of this dataset is as follows:
 
 	RWCP_SSD_Onomatopoeia
 	└── nospeech
