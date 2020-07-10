@@ -14,7 +14,7 @@ The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 [Worker ID who gaves onomatopoeic words, ID for onomatopoeic word, Onomatopoeia, self-reported confidence score]  
 
 - XXX.acc (csv format file)
-[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, othres-reported acceptance score]
+[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]
 
 
 ## Citations
