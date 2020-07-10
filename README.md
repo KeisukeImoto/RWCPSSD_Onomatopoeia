@@ -1,7 +1,12 @@
-# RWCPSSD_Onomatopoeia
-RWCP-SSD-Onomatopoeia
+# RWCP-SSD-Onomatopoeia
+RWCP-SSD-Onomatopoeia is a dataset hogehoge
 
 
+
+## Contents
+
+
+### File format
 
 
 
@@ -17,6 +22,10 @@ RWCP-SSD-Onomatopoeia
 }
 ```
 
+## Contacts
+If you have any questions, please do not hesitate to contact us.
+
+-Keisuke Imoto (Doshisha University)  keisuke.imoto (at) ieee.org
 
 ## References
 [1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. LanguageResources and Evaluation Conference (LREC), pp. 965–968,2000.  
