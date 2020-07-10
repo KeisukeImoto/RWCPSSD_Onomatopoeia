@@ -20,7 +20,7 @@
 
 - ***RWCP-SSD-Onomatopoeia_en*** 
 	- 環境音に対する音素表記のオノマトペ（合計155,568個）
-		- Julius 音素セグメンテーションキット[3]によりカタカナで書かれたオノマトペを音素表記に変換したデータ  
+		- カタカナで書かれたオノマトペを音素表記に変換したデータ（カタカナから音素表記への変換はJulius音素セグメンテーションキット[3]を利用）
 	- オノマトペに対する自信度
 		- 付与したオノマトペに対する５段階での自信度合い  
 	- オノマトペに対する許容度
@@ -73,12 +73,7 @@
 
 
 ## 使い方
-このデータセットは以下の場合に限り使用可能です．
-- アカデミック機関での研究
-- 非商用目的の研究（営利団体での研究も含む）
-- 個人での利用（ブログなどを含む）
-
-営利目的の利用を希望される場合，keisuke.imoto@ieee.org までご連絡ください．また，論文やブログポスト等の成果を公開する際には，下記論文を引用してください．  
+論文やブログポスト等の成果を公開する際には，下記論文を引用してください．  
 
 Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi, Takahiro Fukumori, and Yoichi Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," arXiv preprint, arXiv:2007.04719, 2020.  
 
@@ -92,11 +87,6 @@ Yuki Okamoto, Keisuke Imoto, Shinnosuke Takamichi, Ryosuke Yamanishi, Takahiro F
 山下 洋一（立命館大学）  
 
 井本 桂右 (keisuke.imoto@ieee.org)，岡本 悠希（yuki.11.research@gmail.com）が主な責任者です．
-
-
-## 商用利用
-我々は，皆様の商用利用を歓迎します．下記メールアドレスにご連絡ください．  
-井本 桂右：keisuke.imoto@ieee.org
 
 
 ## 参考文献
