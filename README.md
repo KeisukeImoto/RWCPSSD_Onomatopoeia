@@ -17,6 +17,41 @@ The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 [ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]
 
 
+## Directory structure
+
+
+	RWCP_SSD_Onomatopoeia
+	└── nospeech
+	    └── drysrc
+	        ├── a1
+	        │   ├── cherry1
+	        │   │   ├── 000.acc
+	        │   │   ├── 000.ono
+	        │   │   ├── 001.acc
+	        │   │   ├── 001.ono
+	        │   │   ├── 002.acc
+	        │   │   ├── 002.ono
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   ├── 099.acc
+	        │   │   └── 099.ono
+	        │   ├── cherry2
+	        │   ├── cherry3
+	        │   ├     ・
+	        │   ├     ・
+	        │   ├     ・
+	        │   └── wood3
+	        ├── a2
+	        ├── a3
+	        ├── a4
+	        ├   ・
+	        ├   ・
+	        ├   ・
+	        └── c5
+
+
+
 ## Citations
 ```
 @article{Okamoto_arXiv2000_01,
