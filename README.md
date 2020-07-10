@@ -25,6 +25,7 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 	The dataset includes anonymized IDs of workers who gave onomatopoeic words, confidence scores, and acceptance scores.
 
+Note that RWCP-SSD-Onomatopoeia does not contain sound files, which can be obtained from [NII Speech Resources Consortium (NII-SRC)](http://research.nii.ac.jp/src/en/index.html). If you need any assistance, please do not hesitate to contact us.
 
 ## File format
 
