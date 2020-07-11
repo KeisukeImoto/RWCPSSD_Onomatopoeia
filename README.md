@@ -75,7 +75,7 @@ The directory structure of this dataset is as follows:
 
 
 
-## Citations
+## Citation
 ```
 @article{Okamoto_arXiv2000_01,
   author={Yuki Okamoto and Keisuke Imoto and Shinnosuke Takamichi and Ryosuke Yamanishi and Takahiro Fukumori and Yoichi Yamashita},
