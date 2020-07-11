@@ -11,7 +11,7 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 - Onomatopoeic words for environmental sounds
 
-	We collected a total of 155,568 onomatopoeic words for for 105 kinds of environmental sounds (e.g., shaver sound, whistle sound). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary, and was converted to the phoneme representation.
+	We collected a total of 155,568 onomatopoeic words for for 105 kinds of environmental sounds (e.g., shaver sound, whistle sound). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary, and was converted to the English phoneme representation.
 
 - Self-reported confidence scores
 
@@ -25,7 +25,10 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 	The dataset includes anonymized IDs of workers who gave onomatopoeic words, confidence scores, and acceptance scores.
 
-Note that RWCP-SSD-Onomatopoeia does not contain sound files, which can be obtained from [NII Speech Resources Consortium (NII-SRC)](http://research.nii.ac.jp/src/en/index.html). If you need any assistance, please do not hesitate to contact us.
+Onomatopoeic words of Japanese syllabary and English phoneme representation are included in RWCP_SSD_Ononatopoeia_en and RWCP_SSD_Ononatopoeia_jp, respectively.
+
+**Note that RWCP-SSD-Onomatopoeia does not contain sound files, which can be obtained from [NII Speech Resources Consortium (NII-SRC)](http://research.nii.ac.jp/src/en/index.html).** If you need any assistance, please do not hesitate to contact us.
+
 
 ## File format
 
