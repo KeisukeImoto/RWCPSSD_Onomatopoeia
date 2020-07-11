@@ -25,7 +25,7 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 	The dataset includes anonymized IDs of workers who gave onomatopoeic words, confidence scores, and acceptance scores.
 
-Onomatopoeic words of Japanese syllabary and English phoneme representation are included in RWCP_SSD_Ononatopoeia_en and RWCP_SSD_Ononatopoeia_jp, respectively.
+Onomatopoeic words of English phoneme representation and Japanese syllabary are included in RWCP_SSD_Ononatopoeia_en and RWCP_SSD_Ononatopoeia_jp, respectively.
 
 **Note that RWCP-SSD-Onomatopoeia does not contain sound files, which can be obtained from [NII Speech Resources Consortium (NII-SRC)](http://research.nii.ac.jp/src/en/index.html).** If you need any assistance, please do not hesitate to contact us.
 
