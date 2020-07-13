@@ -19,7 +19,7 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 - Others-reported acceptance scores
 
-	We collected 548,367 acceptance scores for onomatopoeic words transcribed by others. The others-reported acceptance score enables us to evaluate the appropriateness of onomatopoeic words on the judgement of others. The others-reported acceptance score was collected from more than five workers for onomatopoeic words with 4 or high confidence scores.
+	We collected 548,367 acceptance scores for onomatopoeic words transcribed by others. The others-reported acceptance score was collected from more than five workers for onomatopoeic words with 4 or high confidence scores. The others-reported acceptance score enables us to evaluate the appropriateness of onomatopoeic words on the judgement of others.
 
 - WorkerID
 
