@@ -34,10 +34,10 @@ Onomatopoeic words of English phoneme representation and Japanese syllabary are 
 
 The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 
-- XXX.ono (csv format file)  
+- XXX.ono  
 	``[Worker ID who gaves onomatopoeic words, ID for onomatopoeic word, Onomatopoeia, self-reported confidence score]``
 
-- XXX.acc (csv format file)  
+- XXX.acc  
 	``[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]``
 
 
