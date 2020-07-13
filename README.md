@@ -15,11 +15,11 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 - Self-reported confidence scores
 
-	We collected confidence levels for onomatopoeic words workers themselves transcribed. The self-reported confidence score enables us to evaluate the appropriateness of onomatopoeic words on the basis of the judgement of the person giving the onomatopoeic words.
+	We collected 155,568 confidence scores for onomatopoeic words workers themselves transcribed. The self-reported confidence score enables us to evaluate the appropriateness of onomatopoeic words on the basis of the judgement of the person giving the onomatopoeic words.
 
 - Others-reported acceptance scores
 
-	We collected acceptance levels for onomatopoeic words transcribed by others. The others-reported acceptance score enables us to evaluate the appropriateness of onomatopoeic words on the judgement of others. 
+	We collected 548,367 acceptance scores for onomatopoeic words transcribed by others. The others-reported acceptance score enables us to evaluate the appropriateness of onomatopoeic words on the judgement of others. 
 
 - WorkerID
 
@@ -77,8 +77,18 @@ The directory structure of this dataset is as follows:
 	        └── c5
 
 
+## Terms of use
 
-## Citation
+The RWCP-SSD-Onomatopoeia may be used for 
+- Research by academic institutions
+- Non-commercial research, including research conducted within commercial organisations
+- Personal use.
+
+If you want to use for commercial purposes, please contact us (Keisuke Imoto or Yuki Okamoto).
+Re-distribution is not permitted, but you can use a part of this dataset (e.g., 〜10 onomatopoeic words) in your website or blog post.
+Please cite this paper when you use this dataset in your research paper, blog post, and preprint.
+
+### Citation
 ```
 @article{Okamoto_arXiv2000_01,
   author={Yuki Okamoto and Keisuke Imoto and Shinnosuke Takamichi and Ryosuke Yamanishi and Takahiro Fukumori and Yoichi Yamashita},
