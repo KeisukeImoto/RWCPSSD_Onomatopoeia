@@ -40,10 +40,11 @@ The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 - XXX.acc  
 	``[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]``
 
+The ID for onomatopoeic word is unique for each environmental sound and worker gaves the onomatopoeic word.
 
 ## Directory structure
 
-The RWCP-SSD-Onomatopoeia and RWCP-SSD have the same directory structure, and we can easily merge these resources.
+The RWCP-SSD-Onomatopoeia and RWCP-SSD have the same directory structure, and you can easily merge these resources.
 The directory structure of this dataset is as follows:
 
 	RWCP_SSD_Onomatopoeia
