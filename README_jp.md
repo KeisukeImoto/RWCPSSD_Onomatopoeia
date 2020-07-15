@@ -1,7 +1,7 @@
 # RWCP-SSD-Onomatopoeia
 
-RWCP-SSD-OnomatopoeiaはRWCP実環境音声音響データベース (RWCP-SSD)に含まれる105種類の環境音に対する計155,568個のオノマトペを含んだデータセットです．
-RWCP-SSD-Onomatopoeiaには、オノマトペに対する自信度，許容度も含まれており，オノマトペの適切性を評価するために利用できます．
+RWCP-SSD-OnomatopoeiaはRWCP実環境音声音響データベース (RWCP-SSD)[1]に含まれる105種類の環境音に対して，計155,568個のオノマトペを付与したデータセットです．
+RWCP-SSD-Onomatopoeiaには，オノマトペに対する自信度，許容度も含まれており，オノマトペの適切性を評価するために利用できます．
 本データセットは，オノマトペを用いた環境音の合成・変換に関する研究のために設計・収集されたものです．
 データセットの詳しい概要は論文[2]を参照してください．
 また，RWCP-SSD-Onomatopoeiaを使用する場合は論文[2]を引用してください．
@@ -24,7 +24,7 @@ RWCP-SSD-Onomatopoeiaには、オノマトペに対する自信度，許容度�
 - オノマトペに対する許容度
 
 	他者が付与したオノマトペに対し，548,367個の許容度を収取しました．
-	許容度は自信度が4以上のオノマトペに対し，５人以上のワーカーから収集しました．
+	許容度は自信度が4以上のオノマトペに対し，5人以上のワーカーから収集しました．
 	許容度を利用することで，他者の判断に基づいてオノマトペの適切性を評価することができます．
 
 - ワーカーID
@@ -33,8 +33,8 @@ RWCP-SSD-Onomatopoeiaには、オノマトペに対する自信度，許容度�
 
 RWCP-SSD-Onomatopoeia_jp, RWCP-SSD-Onomatopoeia_enのそれぞれには，カタカナ表記のオノマトペと英語の音素表記のオノマトペが含まれています．
 
-**RWCP-SSD-Onomatopoeiaには音声ファイルは含まれていません．**
-ご不明点がございましたら，お気軽にお問い合わせください．
+**RWCP-SSD-Onomatopoeiaには環境音ファイルは含まれていません．環境音ファイルは [国立情報学研究所 音声資源コンソーシアム (NII-SRC)](http://research.nii.ac.jp/src/en/index.html)から入手頂きますようお願いします．**
+環境音ファイルの入手についてご不明点がございましたら，お気軽にお問い合わせください．
 
 
 ## ファイル形式
@@ -93,12 +93,11 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 - 非商用目的の研究（営利団体での研究も含む）
 - 個人での利用（ブログなどを含む）
 
-営利目的での利用を希望される場合は，私たち（井本 桂右，もしくは岡本 悠希）までご連絡ください．
+営利目的での利用を希望される場合は，井本 桂右もしくは岡本 悠希までご連絡ください．
 再配布はできませんが，本データセットの一部（例えば，10個のオノマトペ）をあなたのウェブページやブログなどで公開することは可能です．
 論文やブログポスト等の成果を公開する際には，本論文を引用してください．  
 
-
-## 引用
+### 引用
 ```
 @article{Okamoto_arXiv2000_01,
   author={Yuki Okamoto and Keisuke Imoto and Shinnosuke Takamichi and Ryosuke Yamanishi and Takahiro Fukumori and Yoichi Yamashita},
@@ -125,4 +124,3 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 ## 参考文献
 [1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. Language Resources and Evaluation Conference (LREC), pp. 965–968,2000.  
 [2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," arXiv preprint, arXiv:2007.04719, 2020.  
-[3] "Speech Segmentation Toolkit using Julius," https://github.com/julius-speech/segmentation-kit.
