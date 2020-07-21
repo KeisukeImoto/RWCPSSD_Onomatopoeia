@@ -35,7 +35,7 @@ Onomatopoeic words of English phoneme representation and Japanese syllabary are 
 The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 
 - XXX.ono  
-	``[Worker ID who gaves onomatopoeic words, ID for onomatopoeic word, Onomatopoeia, self-reported confidence score]``
+	``[Worker ID who gaves onomatopoeic word, ID for onomatopoeic word, Onomatopoeia, Self-reported confidence score]``
 
 - XXX.acc  
 	``[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]``
