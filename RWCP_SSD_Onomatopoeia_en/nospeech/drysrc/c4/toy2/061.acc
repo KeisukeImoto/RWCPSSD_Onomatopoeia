@@ -5,33 +5,33 @@
 1083_223,p i: i: i: N,0084,4
 1083_223,p i: i: i: N,0606,2
 1083_223,p i: i: i: N,0507,2
-0507_602,b i:: N b i:: N b i:: N,0684,2
-0507_602,b i:: N b i:: N b i:: N,0326,1
-0507_602,b i:: N b i:: N b i:: N,0601,3
-0507_602,b i:: N b i:: N b i:: N,0752,3
-0507_602,b i:: N b i:: N b i:: N,1093,4
-0507_602,b i:: N b i:: N b i:: N,0838,4
+0507_602,b i: N b i: N b i: N,0684,2
+0507_602,b i: N b i: N b i: N,0326,1
+0507_602,b i: N b i: N b i: N,0601,3
+0507_602,b i: N b i: N b i: N,0752,3
+0507_602,b i: N b i: N b i: N,1093,4
+0507_602,b i: N b i: N b i: N,0838,4
 0507_601,w i: N w i: N w i: N,0958,4
 0507_601,w i: N w i: N w i: N,1097,3
 0507_601,w i: N w i: N w i: N,0417,4
 0507_601,w i: N w i: N w i: N,0630,3
 0507_601,w i: N w i: N w i: N,0428,5
 0507_601,w i: N w i: N w i: N,0168,4
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0596,5
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0699,4
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0952,5
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0724,5
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0351,5
-0070_199,ヴ i: Nヴ i: Nヴ i: N,0717,1
+0070_199,b u i: N b u i: N b u i: N,0596,5
+0070_199,b u i: N b u i: N b u i: N,0699,4
+0070_199,b u i: N b u i: N b u i: N,0952,5
+0070_199,b u i: N b u i: N b u i: N,0724,5
+0070_199,b u i: N b u i: N b u i: N,0351,5
+0070_199,b u i: N b u i: N b u i: N,0717,1
 1099_429,sh a u e: N u e: N,0348,3
 1099_429,sh a u e: N u e: N,0496,1
 1099_429,sh a u e: N u e: N,0817,3
 1099_429,sh a u e: N u e: N,0373,4
 1099_429,sh a u e: N u e: N,0129,2
-0496_372,ch a q ry u: Nュ: Nュ N,0340,5
-0496_372,ch a q ry u: Nュ: Nュ N,0265,4
-0496_372,ch a q ry u: Nュ: Nュ N,0375,2
-0496_372,ch a q ry u: Nュ: Nュ N,0332,5
-0496_372,ch a q ry u: Nュ: Nュ N,0162,1
-0496_372,ch a q ry u: Nュ: Nュ N,0761,4
-0496_372,ch a q ry u: Nュ: Nュ N,0684,2
+0496_372,ch a q ry u: N y u: N y u N,0340,5
+0496_372,ch a q ry u: N y u: N y u N,0265,4
+0496_372,ch a q ry u: N y u: N y u N,0375,2
+0496_372,ch a q ry u: N y u: N y u N,0332,5
+0496_372,ch a q ry u: N y u: N y u N,0162,1
+0496_372,ch a q ry u: N y u: N y u N,0761,4
+0496_372,ch a q ry u: N y u: N y u N,0684,2

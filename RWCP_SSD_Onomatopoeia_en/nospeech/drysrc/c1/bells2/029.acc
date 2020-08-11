@@ -11,11 +11,11 @@
 0004_2,r i r i r i: N,0636,4
 0004_2,r i r i r i: N,0886,5
 0004_2,r i r i r i: N,0411,4
-0202_17,sh i r i r i r i::,0426,4
-0202_17,sh i r i r i r i::,0129,3
-0202_17,sh i r i r i r i::,0035,3
-0202_17,sh i r i r i r i::,0662,4
-0202_17,sh i r i r i r i::,0801,3
+0202_17,sh i r i r i r i:,0426,4
+0202_17,sh i r i r i r i:,0129,3
+0202_17,sh i r i r i r i:,0035,3
+0202_17,sh i r i r i r i:,0662,4
+0202_17,sh i r i r i r i:,0801,3
 0847_13,ch i r i r i r i r i r i r i r i:,0616,5
 0847_13,ch i r i r i r i r i r i r i r i:,0947,3
 0847_13,ch i r i r i r i r i r i r i r i:,0852,3

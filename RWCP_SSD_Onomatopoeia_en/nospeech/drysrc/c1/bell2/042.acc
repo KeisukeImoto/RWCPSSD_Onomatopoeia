@@ -3,22 +3,22 @@
 1008_21,r i N q r i r i: N q,0484,4
 1008_21,r i N q r i r i: N q,0262,2
 1008_21,r i N q r i r i: N q,0610,4
-0179_2,r i q r i r i::,0425,5
-0179_2,r i q r i r i::,0874,3
-0179_2,r i q r i r i::,0247,4
-0179_2,r i q r i r i::,0484,4
-0179_2,r i q r i r i::,0218,2
-0179_2,r i q r i r i::,0218,3
+0179_2,r i q r i r i:,0425,5
+0179_2,r i q r i r i:,0874,3
+0179_2,r i q r i r i:,0247,4
+0179_2,r i q r i r i:,0484,4
+0179_2,r i q r i r i:,0218,2
+0179_2,r i q r i r i:,0218,3
 1008_20,ch i r i N q ch a r i: N q,0145,3
 1008_20,ch i r i N q ch a r i: N q,0618,4
 1008_20,ch i r i N q ch a r i: N q,0083,4
 1008_20,ch i r i N q ch a r i: N q,0247,4
 1008_20,ch i r i N q ch a r i: N q,0885,5
-0179_1,ch i: r i r i::,0477,4
-0179_1,ch i: r i r i::,1064,4
-0179_1,ch i: r i r i::,0134,5
-0179_1,ch i: r i r i::,0449,4
-0179_1,ch i: r i r i::,0914,4
+0179_1,ch i: r i r i:,0477,4
+0179_1,ch i: r i r i:,1064,4
+0179_1,ch i: r i r i:,0134,5
+0179_1,ch i: r i r i:,0449,4
+0179_1,ch i: r i r i:,0914,4
 0477_5,ch i r i N ch i r i: N,0079,4
 0477_5,ch i r i N ch i r i: N,0886,5
 0477_5,ch i r i N ch i r i: N,0034,4

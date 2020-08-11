@@ -10,9 +10,9 @@
 0701,0701_1,r i: N r i: N,2
 0701,0701_2,k i r i: N k i r i: N,2
 0701,0701_3,ch i r i: N ch i r i: N,2
-0830,0830_16,ch i r i N ch i r i::,3
-0830,0830_17,f i r i N f i r i::,2
-0830,0830_18,p i r i N p i r i::,2
+0830,0830_16,ch i r i N ch i r i:,3
+0830,0830_17,f i r i N f i r i:,2
+0830,0830_18,p i r i N p i r i:,2
 0884,0884_19,r i N r i N,4
 0884,0884_20,p i r i p i r i,3
 0884,0884_21,ch i r i ch i r i,3

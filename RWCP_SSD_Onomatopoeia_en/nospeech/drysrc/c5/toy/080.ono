@@ -10,12 +10,12 @@
 0411,0411_418,j i j i j i j i j i j i,4
 0411,0411_419,j i i i i i i,4
 0411,0411_420,j e i j e i j e i j e i,3
-0420,0420_277,j i::,4
+0420,0420_277,j i:,4
 0420,0420_278,j i: N,3
 0420,0420_279,j i r i j i r i j i r i N,2
 0618,0618_217,j i j i j i j i j i j i j i,5
 0618,0618_218,j i r i j i r i j i r i j i r i,4
-0618,0618_219,j i::,4
+0618,0618_219,j i:,4
 1008,1008_412,j i j i j i j i j i j i j i j i,5
 1008,1008_413,j i r i r i r i r i r i r i r i,4
 1008,1008_414,b i r i r i r i r i r i r i r i,3

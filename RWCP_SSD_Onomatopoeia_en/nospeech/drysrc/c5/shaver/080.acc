@@ -54,12 +54,12 @@
 0340_409,w i: N,1008,5
 0340_409,w i: N,0057,4
 0340_409,w i: N,0974,4
-0057_419,b u:: u ch i q u ch i: q,0235,5
-0057_419,b u:: u ch i q u ch i: q,0901,1
-0057_419,b u:: u ch i q u ch i: q,0639,4
-0057_419,b u:: u ch i q u ch i: q,1013,1
-0057_419,b u:: u ch i q u ch i: q,0767,1
-0057_419,b u:: u ch i q u ch i: q,0817,5
+0057_419,b u: u ch i q u ch i: q,0235,5
+0057_419,b u: u ch i q u ch i: q,0901,1
+0057_419,b u: u ch i q u ch i: q,0639,4
+0057_419,b u: u ch i q u ch i: q,1013,1
+0057_419,b u: u ch i q u ch i: q,0767,1
+0057_419,b u: u ch i q u ch i: q,0817,5
 0428_92,g i: i g i i i,0934,5
 0428_92,g i: i g i i i,0216,2
 0428_92,g i: i g i i i,0143,5

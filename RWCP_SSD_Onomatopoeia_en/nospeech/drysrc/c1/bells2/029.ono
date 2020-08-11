@@ -4,9 +4,9 @@
 0152,0152_16,r i r i r i:,3
 0152,0152_17,sh e r i r i:,3
 0152,0152_18,sh a r i r i: N,3
-0202,0202_16,sh i sh i sh i r i::,3
-0202,0202_17,sh i r i r i r i::,4
-0202,0202_18,sh i r i sh i r i:: N,3
+0202,0202_16,sh i sh i sh i r i:,3
+0202,0202_17,sh i r i r i r i:,4
+0202,0202_18,sh i r i sh i r i: N,3
 0326,0326_16,j i r i r i: q,4
 0326,0326_17,j i r i: q q,3
 0326,0326_18,ch i r i r i: N,3

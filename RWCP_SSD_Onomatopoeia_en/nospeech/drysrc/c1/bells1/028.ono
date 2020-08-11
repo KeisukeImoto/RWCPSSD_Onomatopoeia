@@ -9,7 +9,7 @@
 0057,0057_12,ch i r i r i r i r i r i,4
 0363,0363_19,ch i r i r i r i N,5
 0363,0363_20,t i r i r i r i N,3
-0363,0363_21,r i r i::,5
+0363,0363_21,r i r i:,5
 0453,0453_16,ch i r i r i r i,3
 0453,0453_17,k i r i r i r i,3
 0453,0453_18,ch i N r i r i r i,3
@@ -19,6 +19,6 @@
 0602,0602_16,ch i r i N ch i r i N,4
 0602,0602_17,r i N r i N,4
 0602,0602_18,ch i r i r i r i N,3
-1083,1083_13,ch i:: r i: N,4
-1083,1083_14,sh a r i:: N,3
+1083,1083_13,ch i: r i: N,4
+1083,1083_14,sh a r i: N,3
 1083,1083_15,ch a: r i N,3

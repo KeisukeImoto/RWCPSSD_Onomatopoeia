@@ -24,11 +24,11 @@
 0377_216,ky a N hy o r o hy o r o hy o r o,0750,2
 0377_216,ky a N hy o r o hy o r o hy o r o,0426,2
 0377_216,ky a N hy o r o hy o r o hy o r o,1057,3
-0667_77,k o r o k o r o::,0084,3
-0667_77,k o r o k o r o::,0407,4
-0667_77,k o r o k o r o::,0697,4
-0667_77,k o r o k o r o::,0750,5
-0667_77,k o r o k o r o::,0517,4
+0667_77,k o r o k o r o:,0084,3
+0667_77,k o r o k o r o:,0407,4
+0667_77,k o r o k o r o:,0697,4
+0667_77,k o r o k o r o:,0750,5
+0667_77,k o r o k o r o:,0517,4
 0439_53,k o q t o: N,0841,3
 0439_53,k o q t o: N,0093,3
 0439_53,k o q t o: N,0003,3
@@ -42,12 +42,12 @@
 0540_82,k o N k o k o k o k o k o: q,0351,3
 0540_82,k o N k o k o k o k o k o: q,1042,4
 0540_82,k o N k o k o k o k o k o: q,1086,5
-0667_76,k o r o k o r o:: N q,0552,3
-0667_76,k o r o k o r o:: N q,0787,3
-0667_76,k o r o k o r o:: N q,1042,3
-0667_76,k o r o k o r o:: N q,0669,5
-0667_76,k o r o k o r o:: N q,0529,3
-0667_76,k o r o k o r o:: N q,0639,4
+0667_76,k o r o k o r o: N q,0552,3
+0667_76,k o r o k o r o: N q,0787,3
+0667_76,k o r o k o r o: N q,1042,3
+0667_76,k o r o k o r o: N q,0669,5
+0667_76,k o r o k o r o: N q,0529,3
+0667_76,k o r o k o r o: N q,0639,4
 0540_83,k o q k o k o k o k o:,0336,1
 0540_83,k o q k o k o k o k o:,0375,4
 0540_83,k o q k o k o k o k o:,0803,4

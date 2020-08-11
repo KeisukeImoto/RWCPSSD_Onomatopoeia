@@ -11,8 +11,8 @@
 0701,0701_11,k i: N,1
 0701,0701_12,ky o: N,2
 0830,0830_205,ch a r a r a: r i N r i N,3
-0830,0830_206,ch a r a N r i r i::,2
-0830,0830_207,ch a r a:: f i N f i N,3
+0830,0830_206,ch a r a N r i r i:,2
+0830,0830_207,ch a r a: f i N f i N,3
 0884,0884_124,ch a r a N,4
 0884,0884_125,r a r a,2
 0884,0884_126,r i r i N,2
@@ -21,4 +21,4 @@
 0906,0906_165,j o r i j o r i b o:,3
 0916,0916_88,k a r a k a r a k a r a,2
 0916,0916_89,k a r a r a r a r a:,2
-0916,0916_90,ch a r a r a r a－ N,2
+0916,0916_90,ch a r a r a r a: N,2
