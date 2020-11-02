@@ -123,4 +123,4 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 
 ## 参考文献
 [1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. Language Resources and Evaluation Conference (LREC), pp. 965–968,2000.  
-[2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," arXiv preprint, arXiv:2007.04719, 2020.  
+[2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," Proc. Detection and Classification of Acoustic Scenes and Events (DCASE), pp. 125-129, 2020. Paper URL: http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Okamoto_21.pdf  
