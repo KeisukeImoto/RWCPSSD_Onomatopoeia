@@ -11,7 +11,7 @@ The RWCP-SSD-Onomatopoeia dataset consists of the following contents:
 
 - Onomatopoeic words for environmental sounds
 
-	We collected a total of 155,568 onomatopoeic words for for 105 kinds of environmental sounds (e.g., shaver sound, whistle sound). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary, and was converted to the English phoneme representation.
+	We collected a total of 155,568 onomatopoeic words for for 105 kinds of environmental sounds (e.g., shaver sound, whistle sound). Each onomatopoeic word was collected from Japanese speakers in katakana, which is a Japanese syllabary. We converted each onomatopoeic word written by katakana into the English phoneme representation, which follows the conversion rule of [katakana2accphrase.csv](https://github.com/KeisukeImoto/RWCPSSD_Onomatopoeia/blob/master/katakana2accphrase.csv).
 
 - Self-reported confidence scores
 
