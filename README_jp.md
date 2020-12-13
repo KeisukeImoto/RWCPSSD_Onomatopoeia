@@ -99,13 +99,12 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 
 ### 引用
 ```
-@article{Okamoto_arXiv2000_01,
+@article{Okamoto_DCASE2000_01,
   author={Yuki Okamoto and Keisuke Imoto and Shinnosuke Takamichi and Ryosuke Yamanishi and Takahiro Fukumori and Yoichi Yamashita},
   title={RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis},
-  journal={arXiv preprint}
+  journal={Proc. Detection and Classification of Acoustic Scenes and Events (DCASE)}
   year=2020,
-  pages={1--5},
-  url={https://arxiv.org/abs/2007.04719}
+  pages={125--129},
 }
 ```
 
@@ -119,6 +118,12 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 山下 洋一（立命館大学）  
 
 井本 桂右 (keisuke.imoto@ieee.org)，岡本 悠希（yuki.11.research@gmail.com）が主な責任者です．
+
+
+## 謝辞
+
+この研究は２０２０年度国立情報学研究所公募型共同研究（20S0401）の助成を受けています。
+
 
 
 ## 参考文献
