@@ -91,15 +91,18 @@ Please cite this paper when you use this dataset in your research paper, blog po
 
 ### Citation
 ```
-@article{Okamoto_arXiv2000_01,
+@article{Okamoto_DCASE2000_01,
   author={Yuki Okamoto and Keisuke Imoto and Shinnosuke Takamichi and Ryosuke Yamanishi and Takahiro Fukumori and Yoichi Yamashita},
   title={RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis},
-  journal={arXiv preprint}
+  journal={Proc. Detection and Classification of Acoustic Scenes and Events (DCASE)}
   year=2020,
-  pages={1--5},
-  url={https://arxiv.org/abs/2007.04719}
+  pages={125--129},
 }
 ```
+
+## Acknowledgment
+
+The research was supported by ROIS NII Open Collaborative Research 2020 Grant Number 20S0401. 
 
 
 ## References
