@@ -38,7 +38,7 @@ Onomatopoeic words of English phoneme representation and Japanese syllabary are 
 
 ## File format
 
-The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
+The RWCP-SSD-Onomatopoeia consists of following two types of csv files and single lab file:
 
 - XXX.ono  
 	``[Worker ID who gaves onomatopoeic word, ID for onomatopoeic word, Onomatopoeia, Self-reported confidence score]``
@@ -46,7 +46,7 @@ The RWCP-SSD-Onomatopoeia consists of following two types of csv files:
 - XXX.acc  
 	``[ID for onomatopoeic word, Onomatopoeia, Worker ID who gaves acceptance score, Othres-reported acceptance score]``
 
-- {ID for onomatopic word}.lab
+- XXX-{ID for onomatopic word}.lab
 
 The ID for onomatopoeic word is unique for each environmental sound and worker gaves the onomatopoeic word.
 
@@ -90,24 +90,24 @@ The directory structure of this dataset is as follows:
 	    └── drysrc
 	        ├── a1
 	        │   ├── cherry1
-	        │   │   ├── 0006_7.lab # correspond to [ID for onomatopoeic word]
-	        │   │   ├── 0006_8.lab
-	        │   │   ├── 0006_9.lab
-	        │   │   ├── 0007_10.lab
-	        │   │   ├── 0007_11.lab
-	        │   │   ├── 0007_12.lab
+	        │   │   ├── 000-0167_97.lab # [sound ID]-[ID for onomatopoeic word]
+	        │   │   ├── 000-0167_98.lab
+	        │   │   ├── 000-0167_99.lab
+	        │   │   ├── 000-0604_19.lab
+	        │   │   ├── 000-0604_20.lab
+	        │   │   ├── 000-0604_21.lab
 	        │   │   ├     ・
 	        │   │   ├     ・
 	        │   │   ├     ・
-	        │   │   ├── 1099_95.lab
-	        │   │   └── 1099_96.lab
+	        │   │   ├── 099-0830_176.lab
+	        │   │   └── 099-0830_177.lab
 	        │   ├── cherry2
-	        │   │   ├── 0001_52.lab
-	        │   │   ├── 0001_53.lab
+	        │   │   ├── 000-0176_91.lab
+	        │   │   ├── 000-0176_92.lab
 	        │   │   ├     ・
 	        │   │   ├     ・
 	        │   │   ├     ・
-	        │   │   └── 1108_45.lab
+	        │   │   └── 099-0510_81.lab
 	        │   ├── cherry3
 	        │   ├     ・
 	        │   ├     ・
