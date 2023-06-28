@@ -4,7 +4,9 @@ RWCP-SSD-OnomatopoeiaはRWCP実環境音声音響データベース (RWCP-SSD)[1
 RWCP-SSD-Onomatopoeiaには，オノマトペに対する自信度，許容度も含まれており，オノマトペの適切性を評価するために利用できます．
 本データセットは，オノマトペを用いた環境音の合成・変換に関する研究のために設計・収集されたものです．
 データセットの詳しい概要は論文[2]を参照してください．
-また，RWCP-SSD-Onomatopoeiaを使用する場合は論文[2]を引用してください．
+また，RWCP-SSD-Onomatopoeiaを使用する場合は論文[2]を引用してください．  
+
+更新：論文[3]で使用されたオノマトペのアライメント結果を追加しました．
 
 
 ## 内容
@@ -31,6 +33,10 @@ RWCP-SSD-Onomatopoeiaには，オノマトペに対する自信度，許容度�
 
 	データセットにはオノマトペ，自信度を与えたワーカー，許容度を与えたワーカーの匿名化されたIDが含まれています．
 
+- アライメント結果
+
+	[*Hidden markov model toolkit (HTK)*](https://htk.eng.cam.ac.uk/)を用いてオノマトペと環境音のアライメント結果を取得しました．アライメントに基づく無音区間の切り出しなどを行うことができます．現状では，カタカナ表記のオノマトペに対してのみ提供されています．
+
 RWCP-SSD-Onomatopoeia_jp, RWCP-SSD-Onomatopoeia_enのそれぞれには，カタカナ表記のオノマトペと英語の音素表記のオノマトペが含まれています．
 
 **RWCP-SSD-Onomatopoeiaには環境音ファイルは含まれていません．環境音ファイルは [国立情報学研究所 音声資源コンソーシアム (NII-SRC)](http://research.nii.ac.jp/src/en/index.html)から入手頂きますようお願いします．**
@@ -39,13 +45,15 @@ RWCP-SSD-Onomatopoeia_jp, RWCP-SSD-Onomatopoeia_enのそれぞれには，カタ
 
 ## ファイル形式
 
-RWCP-SSD-Onomatopoeiaは以下の２種類のcsvファイルで構成されています．
+RWCP-SSD-Onomatopoeiaは以下の２種類のcsvファイルと１種類のlabファイルで構成されています．
 
 - XXX.ono
 	``[オノマトペを付与した人のID, オノマトペの識別ID, オノマトペ, 自信度]``
 
 - XXX.acc
 	``[オノマトペの識別ID, オノマトペ, 許容度を付与した人のID, 許容度]``
+
+- XXX-{オノマトペの識別ID}.lab
 
 オノマトペの識別IDは各環境音のオノマトペごとに付与された固有のIDです．
 
@@ -71,6 +79,42 @@ RWCP-SSD-OnomatopoeiaとRWCP-SSDは同じディレクトリ構造を持ってお
 	        │   │   ├── 099.acc
 	        │   │   └── 099.ono
 	        │   ├── cherry2
+	        │   ├── cherry3
+	        │   ├     ・
+	        │   ├     ・
+	        │   ├     ・
+	        │   └── wood3
+	        ├── a2
+	        ├── a3
+	        ├── a4
+	        ├   ・
+	        ├   ・
+	        ├   ・
+	        └── c5
+
+	RWCP_SSD_Onomatopoeia_lab
+	└── nospeech
+	    └── drysrc
+	        ├── a1
+	        │   ├── cherry1
+	        │   │   ├── 000-0167_97.lab # [音ID]-[オノマトペの識別ID]のアライメント
+	        │   │   ├── 000-0167_98.lab
+	        │   │   ├── 000-0167_99.lab
+	        │   │   ├── 000-0604_19.lab
+	        │   │   ├── 000-0604_20.lab
+	        │   │   ├── 000-0604_21.lab
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   ├── 099-0830_176.lab
+	        │   │   └── 099-0830_177.lab
+	        │   ├── cherry2
+	        │   │   ├── 000-0176_91.lab
+	        │   │   ├── 000-0176_92.lab
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   ├     ・
+	        │   │   └── 099-0510_81.lab
 	        │   ├── cherry3
 	        │   ├     ・
 	        │   ├     ・
@@ -129,3 +173,4 @@ RWCP-SSD-Onomatopoeiaは以下の場合に限り利用可能です．
 ## 参考文献
 [1] S. Nakamura, K. Hiyane, F. Asano, and T. Endo, "Acousticalsound database in real environments for sound scene under-standing and hands-free speech recognition," Proc. Language Resources and Evaluation Conference (LREC), pp. 965–968,2000.  
 [2] Y. Okamoto, K. Imoto, S. Takamichi, R. Yamanishi, T. Fukumori, and Y. Yamashita, "RWCP-SSD-Onomatopoeia: Onomatopoeic Word Dataset for Environmental Sound Synthesis," Proc. Detection and Classification of Acoustic Scenes and Events (DCASE), pp. 125-129, 2020. Paper URL: http://dcase.community/documents/workshop2020/proceedings/DCASE2020Workshop_Okamoto_21.pdf  
+[3] H. Ohnaka, S. Takamichi, K. Imoto, Y. Okamoto, K. Fujii, and H. Saruwatari, "Visual Onoma-to-Wave: Environmental Sound Synthesis from Visual Onomatopoeias and Sound-Source Images," Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2023. Paper URL: https://ieeexplore.ieee.org/document/10096517
