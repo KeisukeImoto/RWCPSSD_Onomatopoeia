@@ -90,7 +90,7 @@ The directory structure of this dataset is as follows:
 	    └── drysrc
 	        ├── a1
 	        │   ├── cherry1
-	        │   │   ├── 0006_7.lab
+	        │   │   ├── 0006_7.lab # correspond to [ID for onomatopoeic word]
 	        │   │   ├── 0006_8.lab
 	        │   │   ├── 0006_9.lab
 	        │   │   ├── 0007_10.lab

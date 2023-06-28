@@ -97,7 +97,7 @@ RWCP-SSD-OnomatopoeiaとRWCP-SSDは同じディレクトリ構造を持ってお
 	    └── drysrc
 	        ├── a1
 	        │   ├── cherry1
-	        │   │   ├── 0006_7.lab
+	        │   │   ├── 0006_7.lab # [オノマトペの識別ID]に対応
 	        │   │   ├── 0006_8.lab
 	        │   │   ├── 0006_9.lab
 	        │   │   ├── 0007_10.lab
